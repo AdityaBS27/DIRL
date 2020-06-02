@@ -1,2 +1,2 @@
 # DIRL
-Vehicle Trajectory predcition using inverse reinforcem,ent learning
+Vehicle Trajectory predcition using inverse reinforcement learning
