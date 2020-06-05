@@ -11,9 +11,6 @@ from matplotlib.ticker import MaxNLocator
 from matplotlib import cm
 from matplotlib.ticker import MultipleLocator, FormatStrFormatter,AutoMinorLocator
 
-from tensorflow.keras.utils import to_categorical
-
-
 class Trainer():
     def __init__(self , sess, B, L, E, H, G_mc ,discriminator, training_data, testing_data):
         self.L = L 
