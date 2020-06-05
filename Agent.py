@@ -1,8 +1,6 @@
 
 from DIRL.GAN import Generator 
 
-
-
 class Agent():
     
     '''
