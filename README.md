@@ -1,5 +1,5 @@
 # DIRL
-Vehicle Trajectory predcition using inverse reinforcement learning
+Vehicle Trajectory prediction using inverse reinforcement learning
 
 The goal of the project is to achieve a suitable prediction model of driver’s intention,
 in case of lane change scenarios to help in improving ADAS systems. The prediction
